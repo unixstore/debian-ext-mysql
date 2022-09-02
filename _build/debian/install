@@ -1,0 +1,2 @@
+*.cnf etc/my.cnf.d
+*.conf etc/systemd/system/mysql.service.d
